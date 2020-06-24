@@ -1,0 +1,2 @@
+D:\workspace\ShowStar\Debug\ShowStar.exe
+D:\workspace\ShowStar\Debug\ShowStar.pdb

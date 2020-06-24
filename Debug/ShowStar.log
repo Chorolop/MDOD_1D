@@ -1,0 +1,4 @@
+﻿  ShowStar.cpp
+D:\workspace\ShowStar\ShowStar.cpp(46,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\workspace\ShowStar\ShowStar.cpp(47,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ShowStar.vcxproj -> D:\workspace\ShowStar\Debug\ShowStar.exe
